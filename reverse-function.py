@@ -1,3 +1,5 @@
+#Write a python program that encrypts and decrypts any string it is given using the reverse cipher.
+
 def rev(s):
     x=''
     i=len(s)-1

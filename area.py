@@ -1,3 +1,4 @@
+#program that calculates area and perimeter of a circle
 PI = 3.14
 radius = int(input("Enter your radius:"))
 
